@@ -1,1 +1,4 @@
-rootProject.name = 'reproducer-project'
+rootProject.name = 'gradle-issue-slow-checkstyle'
+
+include 'generator'
+

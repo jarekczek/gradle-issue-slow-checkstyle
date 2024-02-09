@@ -1,0 +1,18 @@
+apply plugin: 'application'
+apply plugin: 'checkstyle'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+}
+
+application {
+  mainClass = 'jc.Plain'
+}
+
+checkstyle {
+    toolVersion = "10.4"
+}

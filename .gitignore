@@ -11,3 +11,5 @@ build/
 *.settings
 bin/
 .metadata/
+
+src/main/java/jc/generated
